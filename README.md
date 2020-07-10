@@ -1,2 +1,5 @@
 # hello_world
-just another repository
+
+Buenas noches
+
+Este repositorio es para practica el uso de este es solamente educativo
